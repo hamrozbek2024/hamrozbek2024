@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Hi, I'm <a href="https://github.com/tsabina2197">Hamrozbek</a></h1>
-  <p><em>Fullstack Developer</em></p>
+  <h1>👋 Hi, I'm <a href="https://github.com/hamrozbek2024">Hamrozbek</a></h1>
+  <p><em>Fullstack</em></p>
 </div>
 
 ---
