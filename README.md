@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm <a href="https://github.com/tsabina2197">Hamrozbek</a></h1>
-  <p><em>Backend Developer</em></p>
+  <p><em>Fullstack Developer</em></p>
 </div>
 
 ---
