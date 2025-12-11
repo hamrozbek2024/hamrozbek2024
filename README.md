@@ -1,43 +1,23 @@
-<!-- Profile README -->
-
-<h1 align="center">👋 Hi, I'm <span style="color:#4da6ff;">Hamrozbek</span></h1>
-<p align="center">🚀 Fullstack Developer | Backend & System Design Enthusiast</p>
+<h1 align="center" style="color:#e6b800;">✨ Hamrozbek ✨</h1>
+<p align="center" style="color:#d9d9d9;">Fullstack Developer</p>
 
 ---
 
-## 🎨 Tech Stack
+## 🛠 Tech Stack
 <div align="center">
-
-### 🔧 Backend & Fullstack  
-<img src="https://skillicons.dev/icons?i=python,flask,django,cpp,c" />
-
-### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
-
-### 🗄 Databases & Tools  
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,linux,redis,docker,git,github" />
-
+<img src="https://skillicons.dev/icons?i=python,flask,django,cpp,c,html,css,bootstrap,js,postgres,mysql,sqlite,redis,docker,linux,git,github" />
 </div>
 
 ---
 
-## ✨ About Me  
-⭐ 2+ years experience in backend & fullstack development  
-⭐ Love building fast, secure, and scalable apps  
-⭐ Currently learning advanced system architecture & cloud tools  
+## 🌟 About Me
+✨ Performance-first backend developer  
+✨ REST API, Docker, Linux va optimization tarafdori  
+✨ Har doim toza arkitektura tarafdori
 
 ---
 
-## 📫 Contact  
+## 📫 Contact
 <div align="center">
-
-<a href="https://t.me/YourTelegramID"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
+<b>Telegram • Email • LinkedIn</b>
 </div>
-
----
-
-## ⚡ Fun Quote  
-> “Clean code always wins.”
