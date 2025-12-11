@@ -1,23 +1,23 @@
-<h1 align="center" style="color:#e6b800;">✨ Hamrozbek ✨</h1>
-<p align="center" style="color:#d9d9d9;">Fullstack Developer</p>
+<h1 align="center" style="color:#00eaff;">⚡ Hamrozbek</h1>
+<p align="center" style="color:#b3f0ff;">Fullstack Developer</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🧪 Tech Stack  
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,flask,django,cpp,c,html,css,bootstrap,js,postgres,mysql,sqlite,redis,docker,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=python,flask,django,js,html,css,bootstrap,linux,docker,redis,postgres,mysql,git,github&theme=light" />
 </div>
 
 ---
 
-## 🌟 About Me
-✨ Performance-first backend developer  
-✨ REST API, Docker, Linux va optimization tarafdori  
-✨ Har doim toza arkitektura tarafdori
+## 🔥 About Me  
+💠 Backend architecture fanati  
+💠 Linux & Docker muhiti bilan ishlashga qiziqaman  
+💠 Kode tozaligi — eng muhim narsa
 
 ---
 
-## 📫 Contact
+## 📡 Contact  
 <div align="center">
-<b>Telegram • Email • LinkedIn</b>
+Telegram | Gmail
 </div>
