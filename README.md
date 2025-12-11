@@ -28,17 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hamrozbek2024&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=hamrozbek2024&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 📫 Contact  
 <div align="center">
 
@@ -51,4 +40,4 @@
 ---
 
 ## ⚡ Fun Quote  
-> “Clean code always wins.”  
+> “Clean code always wins.”
