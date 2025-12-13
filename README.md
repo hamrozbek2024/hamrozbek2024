@@ -1,55 +1,45 @@
-<!-- ===== Animated Name for README ===== -->
-<h1 align="center">
-  <span class="glow-name">👋 Hi, I'm Hamrozbek</span>
-</h1>
+<!-- Profile README -->
 
-<p align="center">
-  🚀 Fullstack Developer | Backend & System Design Enthusiast
-</p>
+<div align="center">
 
-<style>
-.glow-name {
-  font-size: 42px;
-  font-weight: 800;
-  background: linear-gradient(
-    90deg,
-    #00eaff,
-    #7cff00,
-    #ff00cc,
-    #00eaff
-  );
-  background-size: 300% auto;
-  color: transparent;
-  -webkit-background-clip: text;
-  animation:
-    gradientMove 4s linear infinite,
-    glowPulse 2s ease-in-out infinite,
-    blinkSoft 3s infinite;
-}
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&color=2ECC71&center=true&vCenter=true&width=700&lines=+Hamrozbek+Subxonberdiyev;Fullstack+Developer;Welcome+to+my+GitHub+profile" />
 
-/* Gradient harakati */
-@keyframes gradientMove {
-  0% { background-position: 0% center; }
-  100% { background-position: 300% center; }
-}
+</div>
+---
 
-/* Glow effekti */
-@keyframes glowPulse {
-  0% {
-    text-shadow: 0 0 6px #00eaff;
-  }
-  100% {
-    text-shadow:
-      0 0 12px #00eaff,
-      0 0 24px #7cff00,
-      0 0 40px #ff00cc;
-  }
-}
+## 🎨 Tech Stack
+<div align="center">
 
-/* Yengil miltillash */
-@keyframes blinkSoft {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.85; }
-}
-</style>
-<!-- ===== End ===== -->
+### 🔧 Backend & Fullstack  
+<img src="https://skillicons.dev/icons?i=python,flask,django,cpp,c" />
+
+### 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+
+### 🗄 Databases & Tools  
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,linux,redis,docker,git,github" />
+
+</div>
+
+---
+
+## ✨ About Me  
+⭐ 2+ years experience in backend & fullstack development  
+⭐ Love building fast, secure, and scalable apps  
+⭐ Currently learning advanced system architecture & cloud tools  
+
+---
+
+## 📫 Contact  
+<div align="center">
+
+<a href="https://t.me/subxonberdiyev_o1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:suhamrozbek2197@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+---
+
+## ⚡ Fun Quote  
+> “Clean code always wins.”  
